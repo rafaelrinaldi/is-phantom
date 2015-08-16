@@ -1,0 +1,28 @@
+{
+  "name": "is-phantom",
+  "version": "1.0.0",
+  "description": "Check if current running context is PhantomJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | tap-run -b phantom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelrinaldi/is-phantom.git"
+  },
+  "keywords": [
+    "phantom",
+    "test",
+    "check",
+    "browser",
+    "environment",
+    "context",
+    "node"
+  ],
+  "author": "Rafael Rinaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelrinaldi/is-phantom/issues"
+  },
+  "homepage": "https://github.com/rafaelrinaldi/is-phantom#readme"
+}

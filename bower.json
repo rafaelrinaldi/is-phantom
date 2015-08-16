@@ -1,0 +1,24 @@
+{
+  "name": "is-phantom",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Rafael Rinaldi <rafael@rinaldi.io>"
+  ],
+  "description": "Check if current running context is PhantomJS.",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "phantom",
+    "test",
+    "check",
+    "browser",
+    "environment",
+    "context",
+    "node"
+  ],
+  "license": "MIT"
+}
