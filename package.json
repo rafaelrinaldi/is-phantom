@@ -1,6 +1,6 @@
 {
   "name": "is-phantom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if current running context is PhantomJS.",
   "main": "index.js",
   "scripts": {
